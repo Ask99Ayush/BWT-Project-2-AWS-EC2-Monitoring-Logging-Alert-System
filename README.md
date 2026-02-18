@@ -331,4 +331,3 @@ This project implements a production-grade EC2 monitoring, alerting, and logging
 Designed and implemented an AWS-based EC2 monitoring, logging, and alerting system using CloudWatch, SNS, S3, and Kinesis Data Firehose. Built a fully managed observability pipeline with CPU-based alarms, automated email alerts, centralized log ingestion, and long-term log archival without agents or applications. Applied IAM least-privilege principles, secure storage, and cost-optimized retention strategies.
 
 ---
-```
