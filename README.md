@@ -1,4 +1,4 @@
-# Signalpipe
+# SignalPipe
 ### A Serverless AWS Monitoring, Alerting & Log Archival Pipeline
 
 Signalpipe is a fully managed observability pipeline for an Amazon EC2 instance, built entirely from AWS-managed services. CloudWatch continuously tracks CPU utilization, a configured alarm detects sustained overload, SNS fires an email alert the moment it happens, and CloudWatch Logs are streamed through Kinesis Data Firehose into an encrypted S3 bucket for secure, long-term archival.
